@@ -45,8 +45,6 @@
 						<li><a href="sobre.php">Jeam Alves</a></li>
 						<li><a href="typography.html">Serviços</a></li>
 						<li><a href="portfolio.html">Portfolio</a></li>
-						<li><a href="pricingbox.html">Clientes</a></li>
-                        <li><a href="blog.html">Blog</a></li>
                         <li><a href="contact.html">Contato</a></li>
                     </ul>
                 </div>
