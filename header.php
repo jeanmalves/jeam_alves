@@ -35,14 +35,14 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
 						<img src="img/logo.png" />
 					</a>
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-						<li><a href="typography.html">Sobre</a></li>
+                        <li class="active"><a href="index.php">Home</a></li>
+						<li><a href="sobre.php">Jeam Alves</a></li>
 						<li><a href="typography.html">Serviços</a></li>
 						<li><a href="portfolio.html">Portfolio</a></li>
 						<li><a href="pricingbox.html">Clientes</a></li>
