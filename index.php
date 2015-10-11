@@ -75,24 +75,24 @@
 						<!-- Item Project and Filter Name -->
 						<li class="item-thumbs col-lg-3 design" data-id="id-2" data-type="web">
 							<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="QUE!!! Quero Um Emprego" href="img/works/que.jpg">
+							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="macacada.com.br" href="img/works/macacada.jpg">
 								<span class="overlay-img"></span>
 								<span class="overlay-img-thumb font-icon-plus"></span>
 							</a>
 							<!-- Thumb Image and Description -->
-							<img src="img/works/que.jpg" alt="Site de empregos.<br>Desenvolvido em PHP utilizando o framework Codeigniter,
-								 HTML, CSS, JQuery. <p><a href='http://www.queroumemprego.com.br/' target='_blank'>Ver online</a></p> ">
+							<img src="img/works/macacada.jpg" alt="Blog desenvolvido para wordpress.
+									<p><a href='http://www.macacada.com.br/' target='_blank'>Ver online</a></p>">
 						</li>
 						<!-- End Item Project -->
 						<!-- Item Project and Filter Name -->
 						<li class="item-thumbs col-lg-3 design" data-id="id-2" data-type="web">
 							<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ari Osti" href="img/works/ariosti.jpg">
+							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="tagbox.com.br" href="img/works/tagbox.jpg">
 								<span class="overlay-img"></span>
 								<span class="overlay-img-thumb font-icon-plus"></span>
 							</a>
 							<!-- Thumb Image and Description -->
-							<img src="img/works/ariosti.jpg" alt="Site desenvolvido com HTML, PHP, CSS, Ajax, JQuery.">
+							<img src="img/works/tagbox.jpg" alt="Marketplace de moda desenvolvido em PHP com o framework Codeigniter, HTML5, CSS3, javascript, consumindo a API Zanox.">
 						</li>
 						<!-- End Item Project -->
 					</ul>

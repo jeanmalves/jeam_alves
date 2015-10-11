@@ -44,8 +44,8 @@
                         <li class="active"><a href="index.php">Home</a></li>
 						<li><a href="sobre.php">Jeam Alves</a></li>
 						<li><a href="typography.html">Serviços</a></li>
-						<li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="contact.html">Contato</a></li>
+						<li><a href="portfolio.php">Portfolio</a></li>
+                        <li><a href="contato.php">Contato</a></li>
                     </ul>
                 </div>
             </div>
