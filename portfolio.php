@@ -97,6 +97,16 @@
 								<!-- Thumb Image and Description -->
 								<img src="img/works/tagbox.jpg" alt="Marketplace de moda desenvolvido em PHP com o framework Codeigniter, HTML5, CSS3, javascript, consumindo a API Zanox.">
 							</li>
+							<!-- Item Project and Filter Name -->
+							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="site">
+								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+								<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Semana Missionária JMJ 2013" href="img/works/jmj.jpg">
+									<span class="overlay-img"></span>
+									<span class="overlay-img-thumb font-icon-plus"></span>
+								</a>
+								<!-- Thumb Image and Description -->
+								<img src="img/works/jmj.jpg" alt="Multi-idioma, desenvolvido em PHP com o framework Codeigniter, HTML, CSS, javascript.">
+							</li>
 						</ul>
 					</section>
 				</div>
