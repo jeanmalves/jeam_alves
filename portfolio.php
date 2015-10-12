@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h4>Portfólio</h4>
+				<h3>Portfólio</h3>
 				<ul class="portfolio-categ filter">
 					<li class="all active"><a href="#">All</a></li>
 					<li class="site"><a href="#" title="">Sites</a></li>

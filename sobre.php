@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h4>Sobre Jeam Alves</h4>
+				<h3>Sobre Jeam Alves</h3>
 				<br>
 				<div class="col-lg-2">
 					<img src="img/jeam.jpg" alt="" class="align-left">
