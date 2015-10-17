@@ -133,5 +133,21 @@ jQuery(document).ready(function($) {
         sync                : "",                //{NEW} Selector: Mirror the actions performed on this slider with another slider. Use with care.
         asNavFor            : "",                //{NEW} Selector: Internal property exposed for turning the slider into a thumbnail navigation for another slider
     });
+	
+	navigation();
 
 });
+
+function navigation(){
+	
+	var path = window.location.pathname;
+	var pos = path.lastIndexOf('/');
+	var path = path.substr(pos+1);
+	$(".nav li").removeClass();	
+	$(".nav a").each(function () {
+        var href = $(this).attr('href');
+        if (path === href) {
+            $(this).closest('li').addClass('active');
+        }
+    });
+}

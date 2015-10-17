@@ -5,9 +5,7 @@
 			<div class="col-lg-12">
 				<h3>Sobre Jeam Alves</h3>
 				<br>
-				<div class="col-lg-2">
-					<img src="img/jeam.jpg" alt="" class="align-left">
-				</div>
+				
 				<p>
 					<strong>Jeam Alves</strong> é webdesigner desde 2002 e desenvolvedor web desde 2005. É acadêmico do curso de Sistemas de Informação pela UTFPR - Universidade Tecnológica Federal do Paraná, fundador do grupo de entusiastas em programação Coders UTFPR e participa da comunidade PHP PR.
 				</p>

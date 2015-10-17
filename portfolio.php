@@ -24,17 +24,7 @@
 								<img src="img/works/st2015.jpg" alt="Desenvolvido para Wordpress com aplicação 	de técnicas de Layout Responsivo. <br>
 									<p><a href='http://st2015.ct.utfpr.edu.br/' target='_blank'>Ver online</a></p>">
 							</li>
-							<!-- Item Project and Filter Name -->
-							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="site">
-								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-								<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="QI - Consultoria e Coaching" href="img/works/qi.jpg">
-									<span class="overlay-img"></span>
-									<span class="overlay-img-thumb font-icon-plus"></span>
-								</a>
-								<!-- Thumb Image and Description -->
-								<img src="img/works/qi.jpg" alt="Adaptação de layout para Wordpress.<br>
-								<p><a href='http://qiconsultoriacoaching.com.br/' target='_blank'>Ver online</a></p>">
-							</li>
+							
 							<!-- Item Project and Filter Name -->
 							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="site">
 								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
@@ -57,6 +47,17 @@
 								<img src="img/works/ariosti.jpg" alt="Site desenvolvido com HTML, PHP, MySQL, CSS, Ajax, JQuery.">
 							</li>
 							<!-- Item Project and Filter Name -->
+							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="site">
+								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+								<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="QI - Consultoria e Coaching" href="img/works/qi.jpg">
+									<span class="overlay-img"></span>
+									<span class="overlay-img-thumb font-icon-plus"></span>
+								</a>
+								<!-- Thumb Image and Description -->
+								<img src="img/works/qi.jpg" alt="Adaptação de layout para Wordpress.<br>
+								<p><a href='http://qiconsultoriacoaching.com.br/' target='_blank'>Ver online</a></p>">
+							</li>
+							<!-- Item Project and Filter Name -->
 							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="sistema">
 								<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 								<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="SIS - Sistema de Inteligência de Seleção" href="img/works/sis.jpg">
@@ -66,6 +67,7 @@
 								<!-- Thumb Image and Description -->
 								<img src="img/works/sis.jpg" alt="Desenvolvido em PHP utilizando o framework Yii, PostgreSQL, HTML, PHP, CSS, Ajax, JQuery.">
 							</li>
+
 							<!-- Item Project and Filter Name -->
 							<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="sistema">
 								<!-- Fancybox - Gallery Enabled - Title - Full Image -->

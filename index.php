@@ -11,7 +11,7 @@
                 <img src="img/slides/3.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>Soluções Web</h3> 
-					<p>Seu site ou sitema web desenvolvido para alavancar o seu negócio.</p> 
+					<p>Seu site ou sistema web desenvolvido para alavancar o seu negócio.</p> 
 					<a href="#" class="btn btn-theme">Saiba mais</a>
                 </div>
               </li>
@@ -60,19 +60,7 @@
 							</div>
 						</li>
 						<!-- End Item Project -->
-						<!-- Item Project and Filter Name -->
-						<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="web">
-							<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="QI - Consultoria e Coaching" href="img/works/qi.jpg">
-								<span class="overlay-img"></span>
-								<span class="overlay-img-thumb font-icon-plus"></span>
-							</a>
-							<!-- Thumb Image and Description -->
-							<img src="img/works/qi.jpg" alt="Adaptação de layout para Wordpress.<br>
-								<p><a href='http://qiconsultoriacoaching.com.br/' target='_blank'>Ver online</a></p>">
-						</li>
-						<!-- End Item Project -->
-						<!-- Item Project and Filter Name -->
+						
 						<li class="item-thumbs col-lg-3 design" data-id="id-2" data-type="web">
 							<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="macacada.com.br" href="img/works/macacada.jpg">
@@ -93,6 +81,19 @@
 							</a>
 							<!-- Thumb Image and Description -->
 							<img src="img/works/tagbox.jpg" alt="Marketplace de moda desenvolvido em PHP com o framework Codeigniter, HTML5, CSS3, javascript, consumindo a API Zanox.">
+						</li>
+						<!-- End Item Project -->
+
+						<!-- Item Project and Filter Name -->
+						<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="web">
+							<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+							<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="QI - Consultoria e Coaching" href="img/works/qi.jpg">
+								<span class="overlay-img"></span>
+								<span class="overlay-img-thumb font-icon-plus"></span>
+							</a>
+							<!-- Thumb Image and Description -->
+							<img src="img/works/qi.jpg" alt="Adaptação de layout para Wordpress.<br>
+								<p><a href='http://qiconsultoriacoaching.com.br/' target='_blank'>Ver online</a></p>">
 						</li>
 						<!-- End Item Project -->
 					</ul>
