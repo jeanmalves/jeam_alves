@@ -12,7 +12,7 @@
                 <div class="flex-caption">
                     <h3>Soluções Web</h3> 
 					<p>Seu site ou sistema web desenvolvido para alavancar o seu negócio.</p> 
-					<a href="#" class="btn btn-theme">Saiba mais</a>
+					<a href="servico.php" class="btn btn-theme">Saiba mais</a>
                 </div>
               </li>
 			  
