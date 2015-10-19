@@ -7,7 +7,7 @@
 				<br>
 				
 				<p>
-					<strong>Jeam Alves</strong> é webdesigner desde 2002 e desenvolvedor web desde 2005. É acadêmico do curso de Sistemas de Informação pela UTFPR - Universidade Tecnológica Federal do Paraná, fundador do grupo de entusiastas em programação Coders UTFPR e participa da comunidade PHP PR.
+					<strong>Jeam Alves</strong> é webdesigner desde 2002 e desenvolvedor web desde 2005. É acadêmico do curso de Sistemas de Informação pela UTFPR - Universidade Tecnológica Federal do Paraná, fundador do grupo de entusiastas em programação Coders UTFPR e participa da comunidade PHP Paraná.
 				</p>
 				<br>
 				<p>
