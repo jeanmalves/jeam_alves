@@ -10,7 +10,7 @@
 				<h4>Entre em contato comigo através <strong>do formulário de contato abaixo</strong></h4>
 				<form id="contactform" action="contact/contact.php" method="post" class="validateform" name="send-contact">
 					<div id="sendmessage">
-						 Your message has been sent. Thank you!
+						 Sua mensagem foi enviada. Logo retornaremos seu contato, obrigado!
 					</div>
 					<div class="row">
 						<div class="col-lg-4 field">
